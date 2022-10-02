@@ -1,4 +1,4 @@
-# Proje hakkında detaylı bilgiye Rapır.docx belgesinden ulaşabilirsiniz 
+# Proje hakkında detaylı bilgiye Rapor.docx belgesinden ulaşabilirsiniz:
 
 https://github.com/alicancagdas/ogrenci-veritabani-programi/blob/master/Rapor.docx
 
